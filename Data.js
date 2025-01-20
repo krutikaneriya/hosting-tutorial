@@ -1,22 +1,14 @@
 const data = {
-  Name: "John Doe",
+  Name: "Kruti Kaneriya",
   Role: "Frontend Developer",
   Description:
     "I am a professional <strong>UX Designer</strong> and <strong>Front-End Developer</strong> creating modern and responsive designs for <strong>Web</strong> and <strong>Mobile</strong>. Let us work together. Thank you.",
 
-  Work1Title: "Project 1",
+  Work1Title: "E-BookShop",
   Work1Description:
-    "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet. Dolore magna.",
+    "Stole it from github.",
 
-  Work2Title: "Project 2",
-  Work2Description:
-    "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet. Dolore magna.",
-
-  Work3Title: "Project 3",
-  Work3Description:
-    "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet. Dolore magna.",
-
-  Email: "test@gmail.com",
+  Email: "krutikaneriya0311@gmail.com",
   Number: "+91 1234567891",
   BirthDate: "September 9, 2004",
   Address: "xyz street 260004, Rajkot, Gujarat",
